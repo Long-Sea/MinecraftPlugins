@@ -3,27 +3,27 @@
   <groupId>org.example</groupId>
   <artifactId>MinecraftPlugins</artifactId>
   <versioning>
-    <lastUpdated>20220628124028</lastUpdated>
+    <lastUpdated>20220628140841</lastUpdated>
     <snapshot>
-      <timestamp>20220628.124028</timestamp>
+      <timestamp>20220628.140841</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20220628.124028-1</value>
-        <updated>20220628124028</updated>
+        <value>1.0-20220628.140841-1</value>
+        <updated>20220628140841</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20220628.124028-1</value>
-        <updated>20220628124028</updated>
+        <value>1.0-20220628.140841-1</value>
+        <updated>20220628140841</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20220628.124028-1</value>
-        <updated>20220628124028</updated>
+        <value>1.0-20220628.140841-1</value>
+        <updated>20220628140841</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
